@@ -12,4 +12,10 @@
   .navbar_mobile{
     flex-direction: row;
   }
+  .nav_item{
+    font-size: 10px;
+  }
+  .items{
+    gap: 1px;
+  }
 }
